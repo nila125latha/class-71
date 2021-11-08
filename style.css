@@ -1,0 +1,86 @@
+#contact iframe {
+    width: 100%;
+}
+
+.contact_1 h3 {
+    display: inline;
+}
+
+.contact_1 a {
+    text-shadow: none;
+}
+
+input {
+    background: grey
+}
+
+.travel_maindiv {
+    border: 1px solid grey;
+    padding-left: 0px;
+    padding-right: 0px;
+    float: none;
+
+}
+
+.movie_head {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+
+.movie_head i {
+    float: right;
+}
+
+.movie_text span {
+    color: #ff7700;
+}
+
+.environment-li {
+    margin-top: 13px;
+
+}
+
+.environment-li h4 {
+    border-bottom: 1px solid white;
+    padding: 8px;
+
+}
+
+.environment-li img {
+    border-radius: 25px;
+
+
+}
+
+.environment-li p {
+    margin-top: 10px;
+
+}
+
+.book {
+    cursor: pointer;
+
+}
+
+.book hr {
+    margin-bottom: 10px;
+
+}
+
+.modal-content {
+    margin-top: 100px;
+}
+
+.img_modal {
+    display: inline-block;
+}
+
+.p_modal {
+    margin-top: 10px;
+}
+
+.modal-body {
+    text-align: center
+}
